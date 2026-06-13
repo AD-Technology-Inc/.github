@@ -1,10 +1,11 @@
-# AD. Technology Inc.
+Software focused on reliability, scalability, and maintainability.
 
-* 🚀 SaaS Platform Development
-* ⚡ Real-time Systems
-* 🔗 API Development & Integrations
-* 🛡️ Reliability Engineering
+- 🚀 SaaS Platform Development
+- ⚙️ API and Webhook Integration
+- ⚡ Real-Time & Event-Driven Systems
+- 📊 Monitoring, observability, and performance systems
+- 🛡️ resilient architectures
 
-We’re continuously improving our systems and expanding our SaaS ecosystem. More updates will follow as products mature.
+We’re continuously improving our software and expanding our SaaS ecosystem. More updates will follow as products mature.
 
 > Built for stability. Designed for scale. Engineered for reliability.
