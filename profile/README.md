@@ -9,5 +9,3 @@ Software focused on reliability, scalability, and maintainability.
 We’re continuously improving our software and expanding our SaaS ecosystem. More updates will follow as products mature.
 
 > Built for stability. Designed for scale. Engineered for reliability.
-
-ad-technology-inc.atlassian.net
