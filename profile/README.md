@@ -1,6 +1,6 @@
-AD. Technology Inc. is focused on the three pillars of modern engineering: Reliability, Scalability, and Maintainability. 
-We specialize in translating complex business requirements into resilient, production-grade systems.
+Software focused on reliability, scalability, and maintainability.
 
+We specialize in translating complex business requirements into resilient, production-grade systems.
 
 - 🚀 SaaS Platform Development
 - ⚙️ API and Webhook Integration
